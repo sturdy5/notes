@@ -2,9 +2,17 @@
 
 ## Takeaways
 
-* Build some new workshops in collaboration with other teams
-* Take a deeper look into OpenTelemetry
-* Keep track of the requirements resulting from Executive Order 14028
+* [Workshop - Designing with UX in Mind](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109782?McasTsid=26110)
+* [Workshop - Test Driven Development/Behavioral Driven Development](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109841?McasTsid=26110)
+* [Workshop - Pipeline Metrics](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109843?McasTsid=26110)
+* [Workshop - Incorporating Security into Your Pipeline](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109844?McasTsid=26110)
+* [Take a deeper look into OpenTelemetry](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109464?McasTsid=26110)
+* [Keep track of the requirements resulting from Executive Order 14028](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109784?McasTsid=26110)
+* [Managing Supply Chain Issues Blog Post](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109785?McasTsid=26110)
+* We are equal or ahead of most when it comes to managing open source
+* [Look at incorporating Nessus into our pipelines](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109816?McasTsid=26110)
+* [Define different levels of Discovery Team support](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109840?McasTsid=26110)
+* [developer productivity engineering metrics built into the pipeline library](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109913?McasTsid=26110)
 
 ## Session Notes
 
@@ -59,14 +67,14 @@ Need to look more into OpenTelemetry standards
 
 SLI - service level indicator
 
-    The proportion of successful requests, as measured from the load balancer metrics
+The proportion of successful requests, as measured from the load balancer metrics
 
-    Any HTTP status < 500 is considered successful
+Any HTTP status < 500 is considered successful
 
-    The proportion of sufficiently fast request, as measured from the load balancer metrics
+The proportion of sufficiently fast request, as measured from the load balancer metrics
 
-    "sufficiently fast" is defined as:
-    < 500ms 
+"sufficiently fast" is defined as:
+< 500ms 
 
 SLO - service level objective
 
@@ -96,7 +104,7 @@ Adoption phases:
 
 ![](sre-from-scratch-metrics-and-outcomes.png)
 
-Reactive to Proactive in 6 months. Concentrated on Reliability Engineering, but needs to be exanded to include more culture.
+Reactive to Proactive in 6 months. Concentrated on Reliability Engineering, but needs to be expanded to include more culture.
 
 By better managing incidents, they found they had more problems in their digital estate than initially expected.
 
@@ -188,7 +196,7 @@ How are we going to take an upstream approach to answering the required question
 
 1. How can I feel confident attesting to the integrity and provenance of open soruce software components? No idea
 
-1. How can I feel confident attesting to how open source compoennts conform to secure softaware development practices? No idea
+1. How can I feel confident attesting to how open source components conform to secure software development practices? No idea
 
 What happens if we start paying the open source maintainers to get them to help answer the above questions?
 
@@ -267,7 +275,7 @@ Interesting, but because we don't have SRE roles, this isn't a problem we face. 
 
     The Discovery Team provides strategic, proactive, project-focused consultancy. There is a dedicated Discovery Team point of contact.
 
-1. Full Support - expensive and highest commmitment. Significant effort from both sides
+1. Full Support - expensive and highest commitment. Significant effort from both sides
 
 Each level of support would have specific gates to entry. We would have to define what those gates are and need to include definition of work and completion criteria. The engagement process and criteria should evolve continually.
 
@@ -390,7 +398,7 @@ For reference:
 
 Culture and behavior changed as a result of these changes. Teams are excited and having fun
 
-### Building COnfidence in Your SRE Team
+### Building Confidence in Your SRE Team
 
 1. Automate
 
