@@ -13,6 +13,7 @@
 * [Look at incorporating Nessus into our pipelines](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109816?McasTsid=26110)
 * [Define different levels of Discovery Team support](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109840?McasTsid=26110)
 * [developer productivity engineering metrics built into the pipeline library](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109913?McasTsid=26110)
+* [Look at Gradle Build Cache and How it can improve our wait times](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109786?McasTsid=26110)
 
 ## Session Notes
 
