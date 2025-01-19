@@ -29,3 +29,9 @@ Put one loaf into each loaf pan. Cover and let rise again - roughly 30 minutes.
 Bake at 350 for 35 minutes
 
 Once it comes out of the oven, spread butter on the top
+
+---
+
+Notes:
+
+* 2025-01-19 - first time making this. The amount of flour that goes into it seems way low. Maybe 5 cups is just a starting point, but for me to get the dough to come together, I had to add at least another cup. I was doing it by the spoonful, so it was probably more. I think the dough might have still been too wet when I finally decided it was enough. I'm not sure if that will have an overall impact on the bread or not. I guess I'll find out in a bit.
