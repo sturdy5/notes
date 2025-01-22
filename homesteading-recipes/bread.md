@@ -14,7 +14,7 @@ Stir and let the yeast do its thing. Once it is nice and foamy
 
 stir
 
-* 5 cups of flour
+* 5 cups of bread flour
 
 Use the mixed with the dough hook to mix it up. It is ready when the dough no longer sticks to the side of the bowl and becomes one big ball.
 
@@ -34,4 +34,4 @@ Once it comes out of the oven, spread butter on the top
 
 Notes:
 
-* 2025-01-19 - first time making this. The amount of flour that goes into it seems way low. Maybe 5 cups is just a starting point, but for me to get the dough to come together, I had to add at least another cup. I was doing it by the spoonful, so it was probably more. I think the dough might have still been too wet when I finally decided it was enough. I'm not sure if that will have an overall impact on the bread or not. I guess I'll find out in a bit. Well, it came out ok. A little crumbly. Not sure what that is about. I'll try changing things up next time.
+* 2025-01-19 - first time making this. The amount of flour that goes into it seems way low. Maybe 5 cups is just a starting point, but for me to get the dough to come together, I had to add at least another cup. I was doing it by the spoonful, so it was probably more. I think the dough might have still been too wet when I finally decided it was enough. I'm not sure if that will have an overall impact on the bread or not. I guess I'll find out in a bit. Well, it came out ok. A little crumbly. Not sure what that is about. I'll try changing things up next time. Melissa looked it up - crumbly means that the wrong flour was used, or it was not kneeded enough, or it was kneeded too much. I may not have kneeded it enough in the mixer, but I also think using AP flour might have been a mistake. I've updated the recipe above to say to use bread flour.
