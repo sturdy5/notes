@@ -16,7 +16,7 @@ stir
 
 * 5 cups of bread flour
 
-Use the mixed with the dough hook to mix it up. It is ready when the dough no longer sticks to the side of the bowl and becomes one big ball.
+Use the mixer with the dough hook to mix it up. It is ready when the dough no longer sticks to the side of the bowl and becomes one big ball.
 
 Cover the dough with a damp cloth and let it rise for 60-90 minutes - until dough is roughly double the size
 
