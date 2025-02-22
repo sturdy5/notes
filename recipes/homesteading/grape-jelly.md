@@ -17,3 +17,9 @@
 1. Flip jars upside down on the counter and let cool completely
 
 This will make jelly that is stable in the fridge for a couple months.
+
+---
+
+## Notes
+
+2025-02-22 - first time I made this and I definitely brought the jelly back to a boil after adding in the sugar too quickly. It boiled over and made a huge mess. Surprised the smoke alarm didn't go off. I can't say that I let it boil for a minute, so I'm not sure how the jelly will turn out. I will update this later when it has cooled and I can taste it.
