@@ -2,7 +2,7 @@
 
 ## Homesteading Recipes
 
-1. [Chocolate Chip Cookies](homesteadding/chocolate-chip-cookies.md)
+1. [Chocolate Chip Cookies](homesteading/chocolate-chip-cookies.md)
 1. [Grape Jelly](homesteading/grape-jelly.md)
 1. [Sandwich Bread](homesteading/bread.md)
 
