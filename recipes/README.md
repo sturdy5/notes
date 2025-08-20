@@ -6,6 +6,11 @@
 1. [Grape Jelly](homesteading/grape-jelly.md)
 1. [Sandwich Bread](homesteading/bread.md)
 
+## Camping Recipes
+
+1. [Chicken and Veggies](camping/chicken-and-veggies.md)
+1. [Crunch Wraps](camping/crunch-wraps.md)
+
 ## Meal Prep Recipes
 
 1. [Queso Mac n Cheese](meal-prep/queso-mac-n-cheese.md)
