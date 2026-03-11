@@ -2,19 +2,6 @@
 
 ## Takeaways
 
-* [Workshop - Designing with UX in Mind](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109782?McasTsid=26110)
-* [Workshop - Test Driven Development/Behavioral Driven Development](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109841?McasTsid=26110)
-* [Workshop - Pipeline Metrics](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109843?McasTsid=26110)
-* [Workshop - Incorporating Security into Your Pipeline](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109844?McasTsid=26110)
-* [Take a deeper look into OpenTelemetry](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109464?McasTsid=26110)
-* [Keep track of the requirements resulting from Executive Order 14028](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109784?McasTsid=26110)
-* [Managing Supply Chain Issues Blog Post](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109785?McasTsid=26110)
-* We are equal or ahead of most when it comes to managing open source
-* [Look at incorporating Nessus into our pipelines](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109816?McasTsid=26110)
-* [Define different levels of Discovery Team support](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109840?McasTsid=26110)
-* [developer productivity engineering metrics built into the pipeline library](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109913?McasTsid=26110)
-* [Look at Gradle Build Cache and How it can improve our wait times](https://dev.azure.com.mcas.ms/blue-infosys/Discovery/_workitems/edit/109786?McasTsid=26110)
-
 ## Session Notes
 
 * [How a DevOps Mindset is Influencing Target's Culture](#how-a-devops-mindset-is-influencing-targets-culture)
