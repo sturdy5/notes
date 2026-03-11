@@ -22,6 +22,6 @@ This will make jelly that is stable in the fridge for a couple months.
 
 Notes:
 
-* 2025-02-22 - first time I made this and I definitely brought the jelly back to a boil after adding in the sugar too quickly. It boiled over and made a huge mess. Surprised the smoke alarm didn't go off. I can't say that I let it boil for a minute, so I'm not sure how the jelly will turn out. A possibility for next time - use a bigger pot. I will update this later when it has cooled and I can taste it. It filled 5 mason jars with a little left over, but not enough to fill another jar.
+* 2025-02-22 - first time I made this and I definitely brought the jelly back to a boil after adding in the sugar too quickly. It boiled over and made a huge mess. Surprised the smoke alarm didn't go off. I can't say that I let it boil for a minute, so I'm not sure how the jelly will turn out. A possibility for next time - use a bigger pot. I will update this later when it has cooled and I can taste it. It filled 5 mason jars with a little left over, but not enough to fill another jar. **UPDATE** - the jelly came out great.
 
 * 2025-08-16 - made this with apple juice and it came out good, but doesn't have a ton of flavor. Might need to try a different approach if using apple juice again in the future. Maybe need to reduce the apple juice a little. Also, a bigger pot is 100% the way to go.
